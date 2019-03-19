@@ -1,2 +1,2 @@
 # matrix_factorization
-My own implementation to multiple matrix factorization techniques - including implementation of the IMF paper
+My own implementation to multiple matrix factorization techniques - including also an implementation of the IMF paper
